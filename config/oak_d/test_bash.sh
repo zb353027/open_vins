@@ -1,0 +1,1 @@
+ros2 launch ov_msckf subscribe.launch.py config:=oak_d use_stereo:=false max_cameras:=1 verbose:=true
